@@ -1,0 +1,172 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.navbar .navbar-brand {
+  font-size: 35px;
+  color: #444;
+}
+.navbar .navbar-toggle .icon-bar {
+  background: #444;
+}
+.navbar .navbar-right .separator {
+  margin-top: 12px;
+  margin-left: 5px;
+}
+
+.pull-right a{
+	color: black;
+}
+.nav-tabs{
+	padding-top: 5%;
+	padding-left: 2%;
+	background-color: darkgray;
+	text-decoration: none;
+}
+
+.nav>li>a {
+    color: black;
+}
+
+.nav-tabs>li{
+	padding-right: 2%;
+}
+
+.page-header .col-xs-8 a{
+	text-decoration: underline;
+	color: black;
+
+}
+
+.page-header .col-xs-4 a{
+	color: black;
+
+}
+.title{
+	padding: 1%;
+	background-color: gray;
+	color: #F2F2F2;
+	width: 50%;
+	font-weight: normal;
+	margin-top: 2%;
+}
+
+.web{
+	padding: 1% 3%;
+	background-color: black;
+	color: white;
+}
+.video{
+	background-color: darkgray;
+	padding: 0% 3% 2%;
+	margin-top: 6%;
+}
+
+.video p{
+	font-size: 0.9em;
+}
+
+.box-date{
+	background-color: darkgray;
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 1.3em;
+	color: black;
+	padding-top: 5%;
+}
+
+.media-body{
+	padding-left: 6%;
+	line-height: 1em;
+}
+
+.media-body p{
+	font-size: 85%;
+}
+
+.top{
+	border-top: 1px solid #eee;
+	margin-top: 3%;
+	padding-left: 3%;
+}
+
+
+.line{
+	line-height: 0.9em;
+	padding-left: 5%;
+	padding-right: 33%;
+	padding-bottom: 3%;
+}
+.info{
+	padding-top: 3%;
+}
+.list{
+	list-style: none;
+	padding-left: 5%;
+	font-size: 0.9em;
+	font-weight: bold;
+	padding-bottom: 3%;
+	border-bottom: 1px solid #eee;
+}
+
+.list li{
+	line-height: 1.8em;
+}
+
+.magazine{
+	background-color: #eee;
+	padding: 1% 20% 3% 3%;
+	line-height: 1em;
+	margin-top: 3%;
+}
+
+.foot{
+	border-top: 4px solid gray;
+}
+
+.foot ul {
+	list-style-type: none;
+}
+/*utilities*/
+
+.gray{
+	background-color: #eee;
+	padding: 3%;
+    margin: 3% 4.5%;
+}
+.under{
+	text-decoration: underline;
+}
+.pull-left{
+	float: left;
+}
+
+.bold-black{
+	font-weight: bold;
+	color: black;
+}
+
+.text-right{
+	text-align: right;
+}
+.w-100{
+	width: 100%;
+}
+
+.pd-0{
+	padding: 0%;
+}
+
+.1h{
+	line-height: 1em;
+}
+
+.text-center{
+	text-align: center;
+}
+
+
